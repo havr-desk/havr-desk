@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @havr-desk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sergo.gavrillo@gmail.com or Telegram - 
+
+- 🌱 I’m currently learning Python, C++
+
+- 📫 How to reach me sergo.gavrillo@gmail.com or Telegram - @hawr_s
 
 <!---
 havr-desk/havr-desk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
