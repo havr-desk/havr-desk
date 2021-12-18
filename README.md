@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @havr-desk
+- 👋 Hi, I’m @hawr-desk
 
 - 🌱 I’m currently learning Python, C/C++
 
